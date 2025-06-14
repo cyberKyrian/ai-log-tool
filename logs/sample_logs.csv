@@ -1,0 +1,5 @@
+timestamp,username,source_ip,destination_ip,action,message
+2024-06-01 12:03:22,jdoe,10.0.0.4,192.168.1.10,allowed,User login succeeded
+2024-06-01 12:07:54,admin,10.0.0.8,192.168.1.12,denied,SSH brute force attempt detected
+2024-06-01 13:02:13,bob,10.0.0.3,192.168.1.11,allowed,Login from known IP
+2024-06-01 13:45:00,root,123.45.67.89,192.168.1.100,denied,Suspicious root login via SSH

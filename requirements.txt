@@ -1,0 +1,8 @@
+openai
+pandas
+scikit-learn
+numpy
+python-dotenv
+jupyter
+seaborn
+matplotlib
