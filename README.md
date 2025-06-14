@@ -96,10 +96,6 @@ ai-log-anomaly-lab/
 │   └── embedded_logs.npy
 ├── notebook/
 │   └── threat_hunting_ai.ipynb
-├── screenshots/
-│   ├── embedding-preview.png
-│   ├── top-threats.png
-│   ├── similarity-graph.png
 ├── README.md
 ```
 
@@ -107,11 +103,11 @@ ai-log-anomaly-lab/
 
 ## Why This Project Stands Out
 
-* ✅ Combines **AI and cybersecurity** in one real lab
-* ✅ Shows **practical use of OpenAI APIs** for analyst workflows
-* ✅ Demonstrates **semantic detection**, not just keyword matching
-* ✅ Applies **data science techniques** to a real-world SOC task
-* ✅ Shows initiative, innovation, and emerging skill sets
+* Combines **AI and cybersecurity** in one real lab
+* Shows **practical use of OpenAI APIs** for analyst workflows
+* Demonstrates **semantic detection**, not just keyword matching
+* Applies **data science techniques** to a real-world SOC task
+* Shows initiative, innovation, and emerging skill sets
 
 This project highlights my ability to engineer secure, scalable, AI-driven systems — a valuable skill in modern cybersecurity environments.
 
@@ -120,4 +116,4 @@ This project highlights my ability to engineer secure, scalable, AI-driven syste
 ## 🔗 Contact
 
 **Kyrian Onyeagusi**
-[LinkedIn](https://www.linkedin.com/in/kyrian-onyeagusi) | [Email](mailto:kyrianoc18@gmail.com) 
+[LinkedIn](https://www.linkedin.com/in/kyrian-onyeagusi/) | [Email](mailto:kyrianoc18@gmail.com) 
